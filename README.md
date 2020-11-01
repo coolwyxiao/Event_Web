@@ -1,4 +1,5 @@
 # Event_Web
+**Link to the website: http://ec2-18-220-195-142.us-east-2.compute.amazonaws.com:8080/Jupiter3/#**
 ## Develop an event searching and recommending website
 ### Project Description
 This web is divided into 3 parts: search, favorite, recommendation
