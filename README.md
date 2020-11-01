@@ -7,6 +7,10 @@ This web is divided into 3 parts: search, favorite, recommendation
 * "recommendation" used content-based algorithm to recommend relevant events to users based on their locations and favorites
 
 ### Package Division
+**FrontEnd:** under WebContent directory
+
+
+**BackEnd:** under src directory
 * algorithm: This is the package to implement my event recommendation algorithm.
 * db: This stores the java class used for mySql communication purposes.
 * entity: This is the place to store code for item class, which wraps the data obtained from API and can be directly used by any other components in the project.
