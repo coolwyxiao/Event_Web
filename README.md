@@ -8,6 +8,7 @@ This web is divided into 3 parts: search, favorite, recommendation
 
 ### Package Division
 * algorithm: This is the package to implement my event recommendation algorithm.
+* db: This stores the java class used for mySql communication purposes.
 * entity: This is the place to store code for item class, which wraps the data obtained from API and can be directly used by any other components in the project.
 * external: This is basically some helper function provided by the API website
 * rpc: this is the servlet I wrote down for different purposes. Including searching, recommendation, and helper function.
