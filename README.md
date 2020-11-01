@@ -8,7 +8,9 @@ This web is divided into 3 parts: search, favorite, recommendation
 
 ### Package Division
 **FrontEnd:** under WebContent directory
-
+* index.html functions as the framework of the frontend page
+* main.css under style directory defines the style of the HTML page.
+* main.js contains the code of javascript that connects backend with frontend.
 
 **BackEnd:** under src directory
 * algorithm: This is the package to implement my event recommendation algorithm.
